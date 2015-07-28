@@ -152,7 +152,7 @@ the p1:http-file-transfer namespace:
 ### Server returns download URL
 
 The server returns an iq result with an URL in a download attribute of
-the query sub-element (of the iq element) in the p1:s3filetransfer
+the query sub-element (of the iq element) in the p1:http-file-transfer
 namespace:
 
 ```xml
